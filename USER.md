@@ -28,6 +28,10 @@ Information about the user to help personalize interactions.
 - [ ] Intermediate
 - [ ] Expert
 
+### Comparison Format
+
+- Prefers table format for comparisons of aider, goose, opencode CLI agents.
+
 ## Work Context
 
 - **Primary Role**: (your role, e.g., developer, researcher)

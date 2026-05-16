@@ -12,7 +12,7 @@ This file stores important information that should persist across sessions.
 
 ## Project Context
 
-(Information about ongoing projects)
+- Plan to evaluate aider, goose, opencode CLI agents to select one suitable for user's needs
 
 ## Important Notes
 
